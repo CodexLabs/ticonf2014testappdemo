@@ -1,0 +1,8 @@
+ :  {
+ :      backtrace = "#0 () at file:///Users/mattapperson/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/BCDC6506-673D-4DD6-815A-9A8A51ED43F7/alloytest.app/alloy.js:231";
+ :      line = 29;
+ :      message = "Can't find variable: food";
+ :      name = ReferenceError;
+ :      sourceId = 346012128;
+ :      sourceURL = "file:///Users/mattapperson/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/BCDC6506-673D-4DD6-815A-9A8A51ED43F7/alloytest.app/alloy/controllers/index.js";
+ :  }
